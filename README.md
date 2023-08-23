@@ -48,6 +48,12 @@ Our method employs high-frequency, low-intensity electrical signals. We begin wi
 - **Max Intensity:** 1 mA
 - **Weight:** Approximately 50g
 
+### Electrode Pad
+![Electrode_pad](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/18317079-b3f8-4d81-9c0c-746f07103728)
+- A-Self-adhesive pad
+- B-Insulated area
+- C-Hook (To hold the electrode pad with the circuit above tightly)
+
 ## Architecture
 
 The device's architecture involves a microcontroller, pulse generator, voltage-to-current converter, and feedback outputs. Components work together to generate and deliver the therapeutic effect.
