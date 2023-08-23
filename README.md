@@ -144,7 +144,16 @@ To accommodate the complexity of the device's internal components and maintain a
 The enclosure design process was a fusion of creativity, functionality, and innovation. Through the utilization of SolidWorks and a dedication to minimizing mass and size, we achieved a multi-part enclosure that embodies both form and function.
 ![Assembled Enclosure](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/9269838c-5fe2-4e5d-a743-024e5bb7e7a4)
 
+## Testing
+Ensuring the correct and reliable operation of our circuit was paramount to the success of our wearable migraine therapeutic device. Rigorous testing procedures were conducted within the laboratory environment to validate the functionality and accuracy of the circuit.
 
+### Waveform Observation and Validation
+During the testing phase, we meticulously observed the waveforms at each crucial sub-module of the circuit using an oscilloscope. By doing so, we were able to ensure that the circuit generated the required waveforms accurately at every step of its operation. These observations provided critical insights into the circuit's behavior and helped us verify the functionality of each sub-module.
+
+### Final Output Waveform
+The culmination of our testing efforts resulted in the observation of the final output waveform. This waveform represents the desired therapeutic signal that our device generates. Through careful validation, we were able to confirm that the device was successfully generating the necessary waveform, paving the way for its effective use in providing migraine relief.
+
+For a more detailed breakdown of the observed waveforms and their interpretations, we have provided comprehensive documentation under the "Testing" folder, which offers insights into the waveforms' characteristics, trends, and implications.
 
 ## User Interface
 
@@ -163,8 +172,7 @@ The enclosure design process was a fusion of creativity, functionality, and inno
 
 For more information about the Wearable Migraine Therapeutic Device, contact us:
 
-- **Email:** info@migrainetherapeutic.com
-- **Website:** [https://www.migrainetherapeutic.com](https://www.migrainetherapeutic.com)
+- **Email:** ravindumadushan005@gmail.com
 
 ## References
 
