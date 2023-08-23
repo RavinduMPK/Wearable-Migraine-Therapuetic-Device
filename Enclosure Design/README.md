@@ -10,6 +10,7 @@ One of our paramount considerations was the minimization of the enclosure's size
 
 ## Three-Part Enclosure Design
 To maintain an optimal balance between functionality and aesthetics, we divided the enclosure into three distinct parts. Each part was thoughtfully designed to fit seamlessly together, allowing for easy access to internal components while presenting a unified and ergonomic exterior.
+
 ![Top Lid](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/2274cbe1-b7a6-4132-8fcd-5f5e2a7a9d33)
 ![Bottom Lid](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/65cde89a-e5e2-425a-aaa0-3ffb3970094d)
 ![Battery Cover](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/d1686895-2f90-4ffd-9c25-6a83191a55f1)
@@ -22,4 +23,3 @@ With the design solidified, we translated our virtual models into physical reali
 
 ## Results
 The culmination of our enclosure design efforts resulted in a compact, functional, and aesthetically pleasing housing for our wearable migraine therapeutic device. The utilization of SolidWorks for design and local 3D printing for fabrication enabled us to bring our vision to life and ensure that our device harmoniously integrates technology with user comfort.
-![Side look](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/8139f7b8-5b4a-49b8-953e-9aeb4f9a57e5)
