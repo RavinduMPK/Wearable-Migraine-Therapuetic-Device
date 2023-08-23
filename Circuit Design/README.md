@@ -1,3 +1,6 @@
+![Schemetic](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/947b869a-3f68-4f27-b592-f30217550970)
+
+
 # Circuit Design
 In the creation of our wearable migraine therapeutic device, a meticulously designed circuit played a pivotal role. The circuit encompasses a series of interconnected modules that collectively generate the desired therapeutic output. This README provides an in-depth understanding of each module's function within the circuit design.
 
