@@ -119,7 +119,31 @@ Upon finalizing the design and layout, the PCB was manufactured according to the
 The PCB design process was a critical step in bringing our wearable migraine therapeutic device to life. It encapsulated both the functional requirements and the constraints imposed by the form factor, resulting in an efficient and compact solution.
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/9b3714fd-2de2-45e4-833a-6c31342e9ee2)
 
-#### Note: We designed anoter PCB for this and those files avilable in PCB Design folder
+#### Note: We designed anoter PCB for this and those files avilable in PCB Design folder.
+
+## Enclosure Design
+
+The design of the enclosure for our wearable migraine therapeutic device was a critical aspect of its overall development. Our enclosure underwent meticulous design and planning to ensure optimal functionality, comfort, and aesthetics. We utilized the SolidWorks design software to bring our vision to life.
+
+### SolidWorks Design Software
+For the creation of the enclosure, we leveraged the capabilities of SolidWorks design software. This industry-standard tool enabled us to model and visualize the physical form of the device, making it an essential part of our design process.
+
+### Minimization of Mass
+A paramount consideration in the enclosure design was the minimization of mass. By strategically selecting materials and optimizing the enclosure's structure, we aimed to achieve a balance between durability and lightweight design. This emphasis on minimizing mass contributes to the comfort and portability of the device.
+
+### Size Miniaturization
+The compact nature of our wearable migraine therapeutic device was a crucial factor in its usability. To this end, we prioritized the miniaturization of the device's size while ensuring that all internal components fit seamlessly within the enclosure. This size optimization enhances the device's wearability and ensures user comfort.
+
+### Multi-Part Enclosure Design
+To accommodate the complexity of the device's internal components and maintain a streamlined exterior, we divided the enclosure into three distinct parts. Each part was meticulously designed to seamlessly fit together, providing easy access to internal components while maintaining a cohesive and ergonomic exterior.
+
+![Top lid](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/1126d782-fa0a-4ff9-b482-413e12408cf1)
+![Bottom lid](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/4e983ec5-30aa-4fea-ae05-282162885352)
+![Battery case cover](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/777109b7-9f36-493e-b4ab-3d49a5572c0f)
+
+The enclosure design process was a fusion of creativity, functionality, and innovation. Through the utilization of SolidWorks and a dedication to minimizing mass and size, we achieved a multi-part enclosure that embodies both form and function.
+![Assembled Enclosure](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/9269838c-5fe2-4e5d-a743-024e5bb7e7a4)
+
 
 
 ## User Interface
