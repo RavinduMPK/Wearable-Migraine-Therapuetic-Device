@@ -119,6 +119,8 @@ Upon finalizing the design and layout, the PCB was manufactured according to the
 The PCB design process was a critical step in bringing our wearable migraine therapeutic device to life. It encapsulated both the functional requirements and the constraints imposed by the form factor, resulting in an efficient and compact solution.
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/9b3714fd-2de2-45e4-833a-6c31342e9ee2)
 
+#### Note: We designed anoter PCB for this and those files avilable in PCB Design folder
+
 
 ## User Interface
 
