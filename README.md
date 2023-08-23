@@ -51,6 +51,7 @@ Our method employs high-frequency, low-intensity electrical signals. We begin wi
 ## Architecture
 
 The device's architecture involves a microcontroller, pulse generator, voltage-to-current converter, and feedback outputs. Components work together to generate and deliver the therapeutic effect.
+
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/9e701492-1ff2-4aa4-a6c3-50d54da9c80c)
 
 ### Inputs
@@ -61,26 +62,31 @@ The Signal Generation Unit comprises several sub-modules:
 
 ### Micro-controller Unit
 This module generates a PWM signal with a varying duty cycle. Our micro-controller programming gradually increases the duty cycle over 16 minutes and then decreases it over the next 4 minutes.
+
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/ee009980-76cd-40de-8acd-9d984233da9f)
 
 
 ### Digital-Analog Converter
 This sub-module converts the PWM signal obtained from the micro-controller into an analog stair-case signal. To achieve this, a second-order filter circuit is employed to accurately filter out harmonics while retaining the DC component of the signal.
+
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/120e0508-868a-4453-b157-053628f959a6)
 
 
 ### Sampling Signal Generator
 A sampling signal, operating at around 100Hz, is required to sample the stair-case signal. To generate this, a 555 timer IC is employed. Given the limitation of the micro-controller in generating such a low-frequency PWM signal, this approach is chosen.
+
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/74917c1c-7c85-40d4-a204-00e84bbcaea2)
 
 
 ### Sampling Unit
 This sub-module samples the stair-case signal. We employ a BJT transistor in switching mode, with calculated resistor values for the base and collector ensuring the transistor operates within the switching region.
+
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/8a682b72-e209-417c-a826-317e2a13397e)
 
 
 ### Voltage-Current Converter
 In the final stage of the circuit, the generated voltage signal must be converted into a current signal. To achieve this, we've designed an Op-Amp circuit functioning as a voltage-current converter, ensuring the output current remains independent of the output load.
+
 ![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/5b8c6da4-7ed3-43cc-b11a-53fd65986bd9)
 
 
@@ -111,6 +117,7 @@ Given the spatial constraints imposed by the device's compact form factor, a two
 Upon finalizing the design and layout, the PCB was manufactured according to the specifications. Components were then manually soldered onto the PCB, adhering to the designated positions as outlined in the design. Attention to detail during assembly was paramount to ensure reliable connections and the overall integrity of the device.
 
 The PCB design process was a critical step in bringing our wearable migraine therapeutic device to life. It encapsulated both the functional requirements and the constraints imposed by the form factor, resulting in an efficient and compact solution.
+![image](https://github.com/RavinduMPK/Wearable-Migraine-Therapuetic-Device/assets/68577937/9b3714fd-2de2-45e4-833a-6c31342e9ee2)
 
 
 ## User Interface
